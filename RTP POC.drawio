@@ -1,1 +1,172 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T09:18:37.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.4.5" etag="RpAaxs8jyKpiPWpI7N8Q" type="github"><diagram id="PbXdz9-czXBGwMWRnxkc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-25T09:45:48.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="d1cHN_yndzVDtq5SU0Va" version="16.4.5" type="github">
+  <diagram id="PbXdz9-czXBGwMWRnxkc" name="Page-1">
+    <mxGraphModel dx="869" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l32_Q67XHPodi_QTkRFm-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="225" width="250" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="435" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-1" target="l32_Q67XHPodi_QTkRFm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-1" value="100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="270" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-2" target="l32_Q67XHPodi_QTkRFm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-2" target="l32_Q67XHPodi_QTkRFm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-2" target="l32_Q67XHPodi_QTkRFm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-2" value="100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="270" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-3" value="Consumer&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-4" value="Suspense&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-5" value="0.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="420" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-6" value="Victoria Revenue&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-7" value="0.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="420" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-8" value="Indepay&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;dashed=1;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-9" target="l32_Q67XHPodi_QTkRFm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-9" value="98.5 + 0.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="270" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-10" value="E2Pay&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-12" target="l32_Q67XHPodi_QTkRFm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-12" value="98.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="270" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-13" value="E2Pay&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-14" value="&lt;h1&gt;Scenario&lt;/h1&gt;&lt;p&gt;Consumer want to do payment from their Victoria Bank Account, to a Merchant whose having BCA Bank Account&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-15" value="96.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="270" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-16" value="Merchant Bank&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-18" value="MDR = 1,5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="315" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-25" value="Disbursement Fee = 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="367" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-26" value="shared between:&lt;br&gt;- Bank = 0.5&lt;br&gt;- Indepay = 0.5&lt;br&gt;- E2Pay = 0.5" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="535" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-27" value="Charged to the merchant" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="634.5" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-28" value="BANK VICTORIA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-29" value="BANK BCA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="195" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="625" width="250" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="620" width="435" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-33" target="l32_Q67XHPodi_QTkRFm-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-33" target="l32_Q67XHPodi_QTkRFm-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-33" target="l32_Q67XHPodi_QTkRFm-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-33" value="100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="670" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-38" value="Consumer&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-40" value="0.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="785" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-41" value="Victoria Revenue&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="755" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-42" value="0.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="780" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-43" value="Indepay&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="750" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;dashed=1;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-45" target="l32_Q67XHPodi_QTkRFm-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-45" value="98.5 + 0.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="670" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-46" value="E2Pay&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l32_Q67XHPodi_QTkRFm-48" target="l32_Q67XHPodi_QTkRFm-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-48" value="98.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="670" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-49" value="E2Pay&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-50" value="96.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="670" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-51" value="Merchant Bank&lt;br&gt;Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="640" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-52" value="MDR = 1,5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="900" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-53" value="Disbursement Fee = 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="767" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-54" value="shared between:&lt;br&gt;- Bank = 0.5&lt;br&gt;- Indepay = 0.5&lt;br&gt;- E2Pay = 0.5" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="935" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-55" value="Charged to the merchant" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="634.5" y="790" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-56" value="BANK VICTORIA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="590" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l32_Q67XHPodi_QTkRFm-57" value="BANK BCA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="595" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
