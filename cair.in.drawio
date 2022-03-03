@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T12:25:39.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="i_Nb9BnWRiKp8oxoUyBW" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T12:26:35.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5LhHksYko_Nj7SjM_0dW" version="16.6.1" type="github">
   <diagram id="juJUYdhsY8R3jdccG2Nd" name="Page-1">
-    <mxGraphModel dx="1955" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,13 +70,13 @@
         <mxCell id="P8W1ZzxDksONGK-kBhTN-19" value="Post Paid" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="720" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P8W1ZzxDksONGK-kBhTN-23" value="Company" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P8W1ZzxDksONGK-kBhTN-23" value="EMPLOYER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P8W1ZzxDksONGK-kBhTN-24" value="CAIR.IN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P8W1ZzxDksONGK-kBhTN-25" value="End User" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P8W1ZzxDksONGK-kBhTN-25" value="EMPLOYEE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P8W1ZzxDksONGK-kBhTN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P8W1ZzxDksONGK-kBhTN-26" target="P8W1ZzxDksONGK-kBhTN-1" edge="1">
