@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T06:26:26.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="npGVkULJejB637pUWW5M" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T09:59:47.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Ev6WMvreRvvlozH-iyIY" version="17.1.2" type="github">
   <diagram id="3dCb9yxg3Jm1YgqBKH3y" name="Page-1">
-    <mxGraphModel dx="1303" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,6 +74,25 @@
             <mxPoint x="120.33333333333348" y="2266.6666666666665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-11" value="&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;User A&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;initiate card&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;binding&lt;/font&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=28;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="Rs9gfFRQPGl0BDksJSR8-2">
+          <mxGeometry y="-40" relative="1" as="geometry">
+            <mxPoint x="120" y="1380" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;endArrow=block;endFill=1;strokeWidth=5;" edge="1" parent="1" source="Rs9gfFRQPGl0BDksJSR8-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-14" value="Call Card Binding&lt;br&gt;API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-13">
+          <mxGeometry x="-0.4104" y="1" relative="1" as="geometry">
+            <mxPoint x="22" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Rs9gfFRQPGl0BDksJSR8-2" value="TARA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="1250" width="160" height="70" as="geometry" />
         </mxCell>
@@ -82,7 +101,7 @@
             <mxPoint x="410.3333333333335" y="2266.6666666666665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rs9gfFRQPGl0BDksJSR8-3" value="RTP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-3" value="BE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="330" y="1250" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rs9gfFRQPGl0BDksJSR8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Rs9gfFRQPGl0BDksJSR8-4">
@@ -90,8 +109,230 @@
             <mxPoint x="700.3333333333335" y="2262.2222900390625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=1;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="1430" as="targetPoint" />
+            <mxPoint x="700" y="1380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Rs9gfFRQPGl0BDksJSR8-4" value="Faspay" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="620" y="1250" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-16" value="Send Card binding&lt;br&gt;page url" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="489.9956521739129" y="1410.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1490" as="sourcePoint" />
+            <mxPoint x="120" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-20" value="User A&lt;br&gt;input card&lt;br&gt;information" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-19">
+          <mxGeometry x="-0.3768" relative="1" as="geometry">
+            <mxPoint x="-80" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;endArrow=block;endFill=1;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1490" as="targetPoint" />
+            <mxPoint x="120" y="1430" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="120" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-22" value="Send user card&lt;br&gt;information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-21">
+          <mxGeometry x="-0.4104" y="1" relative="1" as="geometry">
+            <mxPoint x="22" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-23" value="Verifiy&lt;br&gt;account&lt;br&gt;information" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;align=left;" edge="1" parent="1">
+          <mxGeometry x="-0.2" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1550" as="sourcePoint" />
+            <mxPoint x="700" y="1490" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1550" as="sourcePoint" />
+            <mxPoint x="120" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-25" value="Send SMS&lt;br&gt;OTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-24">
+          <mxGeometry x="-0.217" y="-2" relative="1" as="geometry">
+            <mxPoint y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-26" value="&lt;div style=&quot;text-align: left&quot;&gt;user A&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Entry OTP&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;endArrow=block;endFill=1;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry x="-0.9375" y="-50" relative="1" as="geometry">
+            <mxPoint x="700" y="1610" as="targetPoint" />
+            <mxPoint x="120" y="1550" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="120" y="1610" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-27" value="send OTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-26">
+          <mxGeometry x="-0.4104" y="1" relative="1" as="geometry">
+            <mxPoint x="52" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-28" value="verify OTP&lt;br&gt;and&lt;br&gt;create Token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=1;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry x="-0.9048" y="40" relative="1" as="geometry">
+            <mxPoint x="410" y="1660" as="targetPoint" />
+            <mxPoint x="700" y="1610" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="1660" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-29" value="send Card Binding&lt;br&gt;result &amp;amp; Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-28">
+          <mxGeometry x="-0.1054" y="5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-30" value="save&lt;br&gt;Token" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.41" y="1700" as="sourcePoint" />
+            <mxPoint x="409.41" y="1660" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-31" value="&lt;div style=&quot;text-align: left&quot;&gt;User A&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;asked to entry&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;account number,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;branch info, .. etc&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry x="-0.1513" y="50" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1780" as="sourcePoint" />
+            <mxPoint x="120.41" y="1710" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1780" as="sourcePoint" />
+            <mxPoint x="700" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-33" value="call beneficiary&lt;br&gt;account registration&lt;br&gt;API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-32">
+          <mxGeometry x="-0.2644" y="1" relative="1" as="geometry">
+            <mxPoint x="-24" y="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-34" value="system map&lt;br&gt;account information + beneficiary_va&lt;br&gt;to registered phone number" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;align=left;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry x="-0.2514" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="2010" as="sourcePoint" />
+            <mxPoint x="410.00000000000006" y="1950" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-35" value="register account number&lt;br&gt;and create&lt;br&gt;beneficiary_va_number" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry x="-0.014" y="-70" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1840" as="sourcePoint" />
+            <mxPoint x="699.6400000000001" y="1780" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=5;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1840" as="sourcePoint" />
+            <mxPoint x="700" y="1900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="1900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-37" value="call confirmation&lt;br&gt;register account API&lt;br&gt;(get beneficiary_va)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-36">
+          <mxGeometry x="-0.2644" y="1" relative="1" as="geometry">
+            <mxPoint x="61" y="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=1;strokeWidth=5;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry x="-0.9048" y="40" relative="1" as="geometry">
+            <mxPoint x="410" y="1950" as="targetPoint" />
+            <mxPoint x="700" y="1900" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="1950" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-39" value="send beneficiary_va info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-38">
+          <mxGeometry x="-0.1054" y="5" relative="1" as="geometry">
+            <mxPoint x="-27" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-40" value="&lt;div style=&quot;text-align: left&quot;&gt;User A&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;choose User B&lt;br&gt;from contact&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry x="-0.1513" y="50" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.47" y="2070" as="sourcePoint" />
+            <mxPoint x="120" y="2020" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="2070" as="sourcePoint" />
+            <mxPoint x="410" y="2070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-42" value="inquire User B&lt;br&gt;beneficiary information&lt;br&gt;using phone number" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-41">
+          <mxGeometry x="-0.2644" y="1" relative="1" as="geometry">
+            <mxPoint x="26" y="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=1;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry x="-0.9048" y="40" relative="1" as="geometry">
+            <mxPoint x="119.94999999999999" y="2120" as="targetPoint" />
+            <mxPoint x="409.95" y="2070" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="409.95" y="2120" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-45" value="send User B&lt;br&gt;information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-44">
+          <mxGeometry x="-0.1054" y="5" relative="1" as="geometry">
+            <mxPoint x="-27" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-46" value="&lt;div style=&quot;text-align: left&quot;&gt;User A&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;entry amount&lt;br&gt;+ message and&lt;br&gt;confirm Transfer&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry x="0.1129" y="60" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="2190" as="sourcePoint" />
+            <mxPoint x="119.88" y="2120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="2190" as="sourcePoint" />
+            <mxPoint x="700" y="2190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-48" value="send transfer&lt;br&gt;request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-47">
+          <mxGeometry x="-0.2644" y="1" relative="1" as="geometry">
+            <mxPoint x="26" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-49" value="&lt;div style=&quot;text-align: left&quot;&gt;execute&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;transfer&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry x="-0.1443" y="-30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="699.59" y="2260" as="sourcePoint" />
+            <mxPoint x="699.47" y="2190" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-50" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1840" as="sourcePoint" />
+            <mxPoint x="410" y="1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rs9gfFRQPGl0BDksJSR8-51" value="send beneficiary account&lt;br&gt;registration notif" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Rs9gfFRQPGl0BDksJSR8-50">
+          <mxGeometry x="-0.2644" y="1" relative="1" as="geometry">
+            <mxPoint x="-33" y="-21" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
