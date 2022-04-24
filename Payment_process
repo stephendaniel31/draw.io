@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T16:48:05.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="26jDSCyOzojfzycxWWuj" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-24T18:10:24.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="lfk0C2Tv9k5grVGZB5q2" version="17.4.6" type="github">
   <diagram id="ZlZQ0q2GDpGjnW8ykDSZ" name="Page-1">
     <mxGraphModel dx="1422" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -459,6 +459,39 @@
         </mxCell>
         <mxCell id="pMfD67SPi2f6VYhTBzZo-56" value="CUSTOMER&lt;br&gt;SERVICE&lt;br&gt;AGENT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="60" y="2346" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-57" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sis.binus.ac.id/wp-content/uploads/2020/12/Artikel.png;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2520" width="802.47" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-58" value="Live Call&lt;br&gt;(what&#39;s app)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2610" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-59" value="Live Chat&lt;br&gt;(what&#39;s app)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2610" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-60" value="Inhouse&lt;br&gt;Live Chat&lt;br&gt;App" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="540.0000000000001" y="2610" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-61" value="Manual&amp;nbsp;&lt;br&gt;Ticketing&lt;br&gt;System" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="2610" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-62" value="Inhouse&lt;br&gt;Live Chat&lt;br&gt;App" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="710.0000000000001" y="2610" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-63" value="Call / Chat&lt;br&gt;Distributor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="710.0000000000001" y="2717" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-64" value="Integrated&lt;br&gt;Ticketing&lt;br&gt;System" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="539.9200000000001" y="2717" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-65" value="Queue&lt;br&gt;Callback" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="2815" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-66" value="In App&lt;br&gt;Issue History" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="267" y="2815" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMfD67SPi2f6VYhTBzZo-67" value="Issue&lt;br&gt;Status&lt;br&gt;Tracker" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="2815" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
