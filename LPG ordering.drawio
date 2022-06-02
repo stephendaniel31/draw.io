@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T11:38:29.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="51Z1WUJeH6WZf-fBg_KF" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T11:39:51.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="cZqOnlORnZNrk0Y91lGR" version="18.1.2" type="github">
   <diagram id="tCEU7aNI3vppZz3mpr0o" name="Page-1">
     <mxGraphModel dx="1203" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,8 +62,14 @@
         <mxCell id="jsObKKHN_H2wyqt8bMDx-13" value="Does user&lt;br&gt;found related product?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="210" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="jsObKKHN_H2wyqt8bMDx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jsObKKHN_H2wyqt8bMDx-19" target="jsObKKHN_H2wyqt8bMDx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jsObKKHN_H2wyqt8bMDx-19" value="Choose Delivery&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="150" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsObKKHN_H2wyqt8bMDx-21" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="150" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
