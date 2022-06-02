@@ -1,19 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T09:42:54.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="h6Ii1MzzKPRxYMgoD36-" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T11:12:50.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="vpsMTZFrdsTYIAVpZSlv" version="18.1.2" type="github">
   <diagram id="tCEU7aNI3vppZz3mpr0o" name="Page-1">
     <mxGraphModel dx="1043" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jsObKKHN_H2wyqt8bMDx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jsObKKHN_H2wyqt8bMDx-1" target="jsObKKHN_H2wyqt8bMDx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jsObKKHN_H2wyqt8bMDx-1" value="LPG Ordering&lt;br&gt;Menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsObKKHN_H2wyqt8bMDx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jsObKKHN_H2wyqt8bMDx-2" target="jsObKKHN_H2wyqt8bMDx-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jsObKKHN_H2wyqt8bMDx-2" value="Get Customer&lt;br&gt;Delivery Address and Info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jsObKKHN_H2wyqt8bMDx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jsObKKHN_H2wyqt8bMDx-3" target="jsObKKHN_H2wyqt8bMDx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jsObKKHN_H2wyqt8bMDx-3" value="Redirect to nearest Pangkalan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="230" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jsObKKHN_H2wyqt8bMDx-4" value="Ordering Flow for &lt;i&gt;hyper-local&lt;/i&gt; Platform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jsObKKHN_H2wyqt8bMDx-4" value="LPG Ordering flow with&lt;br&gt;&lt;i&gt;hyper-local&lt;/i&gt;&amp;nbsp;feature" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jsObKKHN_H2wyqt8bMDx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jsObKKHN_H2wyqt8bMDx-13" target="jsObKKHN_H2wyqt8bMDx-6">
@@ -47,7 +56,7 @@
         <mxCell id="jsObKKHN_H2wyqt8bMDx-11" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jsObKKHN_H2wyqt8bMDx-13" value="Does user found related product" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jsObKKHN_H2wyqt8bMDx-13" value="Does user&lt;br&gt;found related product?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="210" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
